@@ -26,8 +26,6 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-
-#Write your code below this line 👇
 import random
 
 humanchoice = input("what do you choose, Type 0 for Rock, 1 for Paper and 2 for Scissors")
